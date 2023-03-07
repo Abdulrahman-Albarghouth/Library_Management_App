@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile_us"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        />
+
+    <item
+        android:id="@+id/nav_home_us"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home" />
+
+
+    <item
+        android:id="@+id/nav_author_us"
+        android:title="@string/author"
+        android:icon="@drawable/ic_baseline_people_alt_24"
+
+        />
+    <item
+        android:id="@+id/nav_book_us"
+        android:title="@string/Books"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        />
+
+
+    <item
+        android:id="@+id/nav_logout_us"
+        android:title="@string/logout"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        />
+</menu>
